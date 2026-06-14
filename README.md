@@ -1,5 +1,5 @@
-  <a align="left" href="https://doi.org/{insira o link doi aqui}">
-    <img src="https://img.shields.io/badge/DOI-{disponível em breve}-blue" alt="DOI">
+  <a align="left" href="https://doi.org/10.5753/erbase.2025.13723 ">
+    <img src="https://img.shields.io/badge/DOI-10.5753/erbase.2025.13723-blue" alt="DOI">
   </a>
   <a href="lamid.ufs.br"><img  align="right" src="https://github.com/user-attachments/assets/915d65fb-281c-42db-b81b-05c785c2473e" alt="LAMID" height="34" /></a> <br/>
 
